@@ -13,3 +13,4 @@ resetテストのsoftです。
 devの方に追記しました。
 
 stashのテストです
+stashのテストです localと差分があるパターン
